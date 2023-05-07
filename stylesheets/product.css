@@ -1,0 +1,22 @@
+body {
+		background-image: url(assets/background.jpg);
+}
+
+h2 {
+		font-style: italic;
+		font-family: 'Times New Roman', serif;
+}
+
+.container {
+		background-color: #edd9c7;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		margin: auto;
+		width: 1200px;
+}
+
+.card {
+		margin: auto;
+		width: 1000px;
+		border-radius: 15px;
+}

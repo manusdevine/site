@@ -1,0 +1,29 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+		background-image: url(assets/background.jpg);
+}
+
+form {
+		background-color: white;
+		padding: 15px;
+		border-bottom-left-radius: 15px;
+		border-bottom-right-radius: 15px;
+}
+
+.navbar {
+		margin-bottom: 0;
+}	
+.container {
+		margin: auto;
+		background-color: #edd9c7;
+		height: 100%;
+		width: 2000px;
+		padding-top: 30px;
+}
+
+.card-header {
+		background-color: #02dede;

@@ -1,0 +1,28 @@
+body {
+		padding: 0;
+		margin: 0;
+		background-image: url(assets/background.jpg);
+}
+
+.container {
+		background-color: #edd9c7;
+		margin: auto;
+		height: 100%;
+		width: 3000px;
+		padding-top: 30px;
+		padding-left: 500px;
+		padding-right: 500px;
+}
+
+.card-header {
+		background-color: #02dede;
+}
+
+.card {
+		border-radius: 15px;
+}
+
+.my-5 {
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+}
